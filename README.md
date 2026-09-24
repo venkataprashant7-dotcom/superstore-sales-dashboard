@@ -3,6 +3,9 @@
 ## Project Overview
 
 An interactive sales dashboard created using Microsoft Excel/WPS Office and the Superstore Sales dataset.
+## Dashboard Preview
+
+![Superstore Sales Dashboard](dashboard.png)
 
 ## Features
 
